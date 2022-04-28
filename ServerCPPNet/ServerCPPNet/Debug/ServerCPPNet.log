@@ -1,0 +1,13 @@
+﻿  server.cpp
+C:\Users\lillo\Desktop\Advanced programming languages\Codice\ServerCPPNet\ServerCPPNet\server.cpp(34,20): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\lillo\Desktop\Advanced programming languages\Codice\ServerCPPNet\ServerCPPNet\server.cpp(47,23): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\lillo\Desktop\Advanced programming languages\Codice\ServerCPPNet\ServerCPPNet\server.cpp(60,23): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\lillo\Desktop\Advanced programming languages\Codice\ServerCPPNet\ServerCPPNet\server.cpp(73,23): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\lillo\Desktop\Advanced programming languages\Codice\ServerCPPNet\ServerCPPNet\server.cpp(87,23): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\lillo\Desktop\Advanced programming languages\Codice\ServerCPPNet\ServerCPPNet\server.cpp(30,30): warning C4101: 'mem5': variabile locale senza riferimenti
+C:\Users\lillo\Desktop\Advanced programming languages\Codice\ServerCPPNet\ServerCPPNet\server.cpp(133,7): warning C4101: 'recvbuf': variabile locale senza riferimenti
+C:\Users\lillo\Desktop\Advanced programming languages\Codice\ServerCPPNet\ServerCPPNet\server.cpp(201,20): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\lillo\Desktop\Advanced programming languages\Codice\ServerCPPNet\ServerCPPNet\server.cpp(231): warning C4715: 'server::scelta': non tutti i percorsi di controllo restituiscono un valore
+server.obj : error LNK2019: riferimento al simbolo esterno _mysql_init@4 non risolto nella funzione "int __cdecl registrazione(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?registrazione@@YAHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+C:\Program Files\MySQL\MySQL Server 8.0\lib\libmysql.lib : warning LNK4272: il tipo 'x64' del computer della libreria è in conflitto con il tipo 'x86' del computer di destinazione
+C:\Users\lillo\Desktop\Advanced programming languages\Codice\ServerCPPNet\Debug\ServerCPPNet.exe : fatal error LNK1120: 1 esterni non risolti
