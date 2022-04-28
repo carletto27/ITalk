@@ -1,0 +1,33 @@
+C:\Users\lillo\Desktop\Advanced programming languages\Progetto APL\Progetto APL\bin\Release\netcoreapp3.1\Progetto APL.exe
+C:\Users\lillo\Desktop\Advanced programming languages\Progetto APL\Progetto APL\bin\Release\netcoreapp3.1\Progetto APL.dll
+C:\Users\lillo\Desktop\Advanced programming languages\Progetto APL\Progetto APL\obj\Release\netcoreapp3.1\Progetto_APL.dashboard.resources
+C:\Users\lillo\Desktop\Advanced programming languages\Progetto APL\Progetto APL\obj\Release\netcoreapp3.1\Progetto_APL.frmRegister.resources
+C:\Users\lillo\Desktop\Advanced programming languages\Progetto APL\Progetto APL\obj\Release\netcoreapp3.1\Progetto_APL.frmLogin.resources
+C:\Users\lillo\Desktop\Advanced programming languages\Progetto APL\Progetto APL\obj\Release\netcoreapp3.1\Progetto APL.csproj.GenerateResource.cache
+C:\Users\lillo\Desktop\Advanced programming languages\Progetto APL\Progetto APL\obj\Release\netcoreapp3.1\Progetto APL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lillo\Desktop\Advanced programming languages\Progetto APL\Progetto APL\obj\Release\netcoreapp3.1\Progetto APL.AssemblyInfoInputs.cache
+C:\Users\lillo\Desktop\Advanced programming languages\Progetto APL\Progetto APL\obj\Release\netcoreapp3.1\Progetto APL.AssemblyInfo.cs
+C:\Users\lillo\Desktop\Advanced programming languages\Progetto APL\Progetto APL\obj\Release\netcoreapp3.1\Progetto APL.csproj.CoreCompileInputs.cache
+C:\Users\lillo\Desktop\Advanced programming languages\Progetto APL\Progetto APL\obj\Release\netcoreapp3.1\Progetto APL.dll
+C:\Users\lillo\Desktop\Advanced programming languages\Progetto APL\Progetto APL\obj\Release\netcoreapp3.1\Progetto APL.pdb
+C:\Users\lillo\Desktop\Advanced programming languages\Progetto APL\Progetto APL\obj\Release\netcoreapp3.1\Progetto APL.csproj.AssemblyReference.cache
+C:\Users\lillo\Desktop\Advanced programming languages\Progetto APL1\Progetto APL\bin\Release\netcoreapp3.1\Progetto APL.exe
+C:\Users\lillo\Desktop\Advanced programming languages\Progetto APL1\Progetto APL\bin\Release\netcoreapp3.1\Progetto APL.dll
+C:\Users\lillo\Desktop\Advanced programming languages\Progetto APL1\Progetto APL\obj\Release\netcoreapp3.1\Progetto_APL.dashboard.resources
+C:\Users\lillo\Desktop\Advanced programming languages\Progetto APL1\Progetto APL\obj\Release\netcoreapp3.1\Progetto_APL.frmRegister.resources
+C:\Users\lillo\Desktop\Advanced programming languages\Progetto APL1\Progetto APL\obj\Release\netcoreapp3.1\Progetto_APL.frmLogin.resources
+C:\Users\lillo\Desktop\Advanced programming languages\Progetto APL1\Progetto APL\obj\Release\netcoreapp3.1\Progetto APL.csproj.GenerateResource.cache
+C:\Users\lillo\Desktop\Advanced programming languages\Progetto APL1\Progetto APL\obj\Release\netcoreapp3.1\Progetto APL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lillo\Desktop\Advanced programming languages\Progetto APL1\Progetto APL\obj\Release\netcoreapp3.1\Progetto APL.AssemblyInfoInputs.cache
+C:\Users\lillo\Desktop\Advanced programming languages\Progetto APL1\Progetto APL\obj\Release\netcoreapp3.1\Progetto APL.AssemblyInfo.cs
+C:\Users\lillo\Desktop\Advanced programming languages\Progetto APL1\Progetto APL\obj\Release\netcoreapp3.1\Progetto APL.csproj.CoreCompileInputs.cache
+C:\Users\lillo\Desktop\Advanced programming languages\Progetto APL1\Progetto APL\obj\Release\netcoreapp3.1\Progetto APL.dll
+C:\Users\lillo\Desktop\Advanced programming languages\Progetto APL1\Progetto APL\obj\Release\netcoreapp3.1\Progetto APL.pdb
+C:\Users\lillo\Desktop\Advanced programming languages\Progetto APL1\Progetto APL\obj\Release\netcoreapp3.1\Progetto APL.csproj.AssemblyReference.cache
+C:\Users\lillo\Desktop\Advanced programming languages\Progetto APL1\Progetto APL\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lillo\Desktop\Advanced programming languages\Progetto APL1\Progetto APL\bin\Release\netcoreapp3.1\Progetto APL.deps.json
+C:\Users\lillo\Desktop\Advanced programming languages\Progetto APL1\Progetto APL\bin\Release\netcoreapp3.1\Progetto APL.runtimeconfig.json
+C:\Users\lillo\Desktop\Advanced programming languages\Progetto APL1\Progetto APL\bin\Release\netcoreapp3.1\Progetto APL.runtimeconfig.dev.json
+C:\Users\lillo\Desktop\Advanced programming languages\Progetto APL1\Progetto APL\bin\Release\netcoreapp3.1\Progetto APL.pdb
+C:\Users\lillo\Desktop\Advanced programming languages\Progetto APL1\Progetto APL\obj\Release\netcoreapp3.1\Progetto APL.genruntimeconfig.cache
+C:\Users\lillo\Desktop\Advanced programming languages\Progetto APL1\Progetto APL\obj\Release\netcoreapp3.1\Progetto_APL.MostraTab.resources

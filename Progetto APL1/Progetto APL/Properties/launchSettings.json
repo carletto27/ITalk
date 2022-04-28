@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Progetto APL": {
+      "commandName": "Project",
+      "jsWebView2Debugging": false
+    }
+  }
+}
